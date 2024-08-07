@@ -10,18 +10,6 @@
 # CustomerPin = int
 
 
-# def StartUp():
-
-#     StartUp = input('Ready To Start yes or no? :')
-#     if StartUp =='yes':
-#         enterpin()
-#     elif StartUp =='no':
-#         print ('Thank you for banking with us.')
-#     else:
-#         print ('else number1')
-# ()
-
-
 # def enterpin():
     
 #     CustomerPin = 1912
